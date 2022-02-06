@@ -1,0 +1,42 @@
+/*
+      Author:   Sean Bolstad
+      Date:     January, 2022
+      Purpose:  CSS template
+*/
+body {
+        background-color: #d9d9d9;
+}
+h1  {
+        font-weight: bold;
+        color:white;
+    background-color: #000066
+}
+hr  {
+        width: inherit;
+    color:#000066
+}
+h2  {
+    font-weight: bold;
+        color:#000066
+}
+strong  {
+    font-weight: bold;
+    color:#ff6600
+}
+em  {
+    font-style: italic
+}
+nav{
+    color:darkslateblue;
+    text-align: center;
+    background-color:floralwhite;
+}
+nav li{
+    margin: 12pt;
+    display: inline-block;
+    font-size: 12pt;
+    line-height: inherit;
+}
+nav a{
+    text-decoration: none;
+}
